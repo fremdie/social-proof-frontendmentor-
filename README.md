@@ -25,14 +25,14 @@ Users should be able to:
 
 ### Screenshot
 
-![1](./screenshot.jpg)
+![1](./images/Frontend Mentor Social proof section1.png)
 
 
 
 ### Links
 
 - Solution URL: [GitHub](https://https://github.com/fremdie/social-proof-frontendmentor-)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://social-proof-f1m2.netlify.app)
 
 ## My process
 
