@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![1](./images/Frontend Mentor Social proof section1.png)
+![1](./images/Frontend%20Mentor%20Social%20proof%20section1.png)
 
 
 
